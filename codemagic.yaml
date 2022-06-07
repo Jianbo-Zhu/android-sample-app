@@ -1,6 +1,6 @@
 workflows:
   pack-apk-testapp:
-    instance_type: linux
+    instance_type: mac_mini
     environment:
       groups:
         - default
